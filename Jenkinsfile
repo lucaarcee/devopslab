@@ -4,8 +4,8 @@ pipeline {
     environment {
         APP_NAME = "devops-app"
         // Cambia estas IPs por las tuyas reales si son distintas
-        BUILD_NODE_IP = "192.168.109.93" 
-        APP_NODE_IP   = "192.168.106.234"
+        BUILD_NODE_IP = "192.168.110.104" 
+        APP_NODE_IP   = "192.168.108.137"
         USER          = "vagrant"
     }
 
